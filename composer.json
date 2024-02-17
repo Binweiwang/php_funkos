@@ -1,0 +1,18 @@
+{
+    "name": "b1nario/php_funkos",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Binwei"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "ramsey/uuid": "^4.7",
+        "antikirra/uuid4": "^2.0"
+    }
+}
